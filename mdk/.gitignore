@@ -1,0 +1,25 @@
+# Keil编译输出
+Objects/
+Listings/
+
+# 编译中间文件
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.hex
+*.bin
+*.lnp
+*.lst
+*.dep
+
+# Keil界面缓存、备份
+*.uvgui.*
+*.uvguix.*
+*.bak
+*.Bak
+
+# 其他
+*.log
+.DS_Store
